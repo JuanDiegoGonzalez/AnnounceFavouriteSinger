@@ -9,7 +9,7 @@ pipeline {
 	        //Orchestrator Services
 	        UIPATH_ORCH_URL = "https://cloud.uipath.com/"
 	        UIPATH_ORCH_LOGICAL_NAME = "choucairtestingsa"
-	        UIPATH_ORCH_TENANT_NAME = "Choucair2"
+	        UIPATH_ORCH_TENANT_NAME = "DefaultTenant"
 	        UIPATH_ORCH_FOLDER_NAME = "Default"
 	    }
 	
